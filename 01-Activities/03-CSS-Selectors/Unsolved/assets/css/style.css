@@ -1,0 +1,34 @@
+/* Selects and applies attributes to entire page (universal selector)*/
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+/* Selects all the main body content (element selector) */
+body {
+  background-color: lemonchiffon;
+}
+
+/* Element Selectors */
+header,
+footer {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  color: #f0ead6;
+  background-color: #191970;
+}
+
+figure {
+  width: 200px;
+  background-color: #f0ead6;
+}
+
+/* Selects class name highleted-text (Class Selector) */
+.highlighted-text {
+  font-weight: bolder;
+}
+
+/* ID selector */
+#contact-section {
+  background-color: #f0ead6;
+}

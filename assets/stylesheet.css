@@ -1,0 +1,32 @@
+
+
+.darkblue{
+    color: darkblue;
+}
+
+
+.section-background{
+    background-color: rgb(243, 221, 161);
+}
+#email{
+    background-color: orange;
+
+}
+
+#portfolio{
+    background-color: orangered;
+
+
+}
+
+#github{
+    background-color: skyblue;
+}
+
+img{
+    border-radius: 5%;
+}
+
+h2 {
+    color: darkblue;
+}
